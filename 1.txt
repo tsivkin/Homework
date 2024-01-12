@@ -1,2 +1,1 @@
-new info in master
-info for conflict with branch
+new info in branch_with_conflict
