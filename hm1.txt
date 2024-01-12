@@ -1,2 +1,3 @@
 home work for Elena
 local changes 
+remote changes txt file for pull action on local computer
