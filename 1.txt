@@ -1,1 +1,1 @@
-new info in master
+new info in branch_with_conflict
